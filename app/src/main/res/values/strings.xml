@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">QrandBarCodeCouponScanner</string>
+    <string name="head_app">MYKLATICRETE</string>
+    <string name="dealer_app">Dealer App</string>
+    <string name="name">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgotpassword">Forgot Password?</string>
+    <string name="newpassword">New password</string>
+    <string name="scanner">Scanner</string>
+    <string name="scanner_code">Scanner Code</string>
+    <string name="number">+91-Mobile Number</string>
+    <string name="confirmpassword">Confirm password</string>
+    <string name="mobile_no">Mobile No</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="coupon_code">Coupon code</string>
+    <string name="coupon_amount">Coupon Amount</string>
+    <string name="customer_cmobile">Customer Mobile #</string>
+    <string name="customer_mobilenumber">Customer Mobile Number</string>
+    <string name="redeem_code">Redeem </string>
+    <string name="otp_string">Please Enter OTP Received on</string>
+    <string-array name="navigation_drawer_items_array">
+        <item>Book a Taxi</item>
+        <item>Your Profile</item>
+        <item>Your Rides</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
